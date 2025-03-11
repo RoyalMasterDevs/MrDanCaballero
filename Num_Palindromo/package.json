@@ -1,0 +1,11 @@
+{
+  "name": "palindromo",
+  "version": "1.0.0",
+  "description": "App node js para validar su una palabra es palindromo",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "MrDanCaballero",
+  "license": "ISC"
+}
